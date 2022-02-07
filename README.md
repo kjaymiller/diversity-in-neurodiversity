@@ -6,4 +6,4 @@ Resources for those underrepresented folks being diagnosed. Based on the Talk - 
 * Previous version of the presentation, as well as other related presentations will be in [presentations.md](./presentations.md)
 
 ## Latest Presentation
-[!Latest Presentation Thumbnail]()](https://www.youtube.com/watch?v=qnFY3b0H-F4)
+[![Latest Presentation Thumbnail](/assets/presentation-cover.jpeg)](https://www.youtube.com/watch?v=qnFY3b0H-F4)
