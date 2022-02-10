@@ -9,4 +9,4 @@ Resources for those underrepresented folks being diagnosed. Based on the Talk - 
 [![Latest Presentation Thumbnail](/assets/presentation-cover.jpeg)](https://www.youtube.com/watch?v=qnFY3b0H-F4)
 
 ## How to Contribute
-Create Discussion Points. Over time we will develop a more structured approach based on usage.
+Create [Discussion](/discussions) Points. Over time we will develop a more structured approach based on usage.
